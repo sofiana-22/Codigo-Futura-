@@ -4,7 +4,7 @@ const StellarSdk = require('@stellar/stellar-sdk');
 const server = new StellarSdk.Horizon.Server('https://horizon-testnet.stellar.org');
 const networkPassphrase = StellarSdk.Networks.TESTNET;
 
-const SECRET_KEY = 'SAPEOTUH2S4DHWFIJTNURQYLTLTDQMP5GZU5IFPUA2XEBPB56RPS2CM4';
+const SECRET_KEY = 'SECRET KEY';
 
 
 const destinatarios = [
